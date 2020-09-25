@@ -19,7 +19,9 @@ const useStyles = makeStyles(theme => ({
 		gridRow: ' 2 / 3',
 		gridColumn: '2 / 3',
 		display: 'flex',
-		flexDirection: 'column'
+		flexDirection: 'column',
+		alignItems: 'center',
+		justifyContent: 'center'
 	},
 	nav: {
 		display: 'flex',
