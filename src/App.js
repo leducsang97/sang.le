@@ -1,7 +1,8 @@
 import React from 'react';
-import { makeStyles } from '@material-ui/core';
+import { makeStyles, Button } from '@material-ui/core';
 import { Link, BrowserRouter as Router } from 'react-router-dom';
 import ContentRouter from './ContentRouter';
+import Footer from './Pages/Footer';
 
 const useStyles = makeStyles(theme => ({
 	root: {
@@ -22,13 +23,25 @@ const useStyles = makeStyles(theme => ({
 	},
 	nav: {
 		display: 'flex',
-		flexDirection: 'row',
-		justifyContent: 'space-between'
+		width: '100%',
+		justifyContent: 'center',
+		position: 'fixed',
+		top: 0,
+		right: 0
 	},
 	button: {
 		...theme.typography.button,
 		backgroundColor: theme.palette.background.paper,
-		padding: theme.spacing(1)
+		padding: theme.spacing(1),
+		display: 'flex'
+	},
+	footer: {
+		display: 'flex',
+		width: '100%',
+		justifyContent: 'center',
+		position: 'fixed',
+		bottom: 0,
+		right: 0
 	}
 }));
 
@@ -40,15 +53,17 @@ const App = () => {
 				<div className={classes.content}>
 					<div className={classes.nav}>
 						<Link to="/home">
-							<div classes={classes.button}>HOME</div>
+							<Button classes={{ root: classes.button }}>HOME</Button>
 						</Link>
-
 						<Link to="/about">
-							<div classes={classes.button}>ABOUT</div>
+							<Button classes={{ root: classes.button }}>ABOUT</Button>
 						</Link>
 					</div>
 
 					<ContentRouter />
+					<div className={classes.footer}>
+						<Footer />
+					</div>
 				</div>
 			</div>
 		</Router>
