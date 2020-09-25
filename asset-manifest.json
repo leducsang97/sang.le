@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/sang.le/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/sang.le/static/js/main.57337861.chunk.js",
-    "main.js.map": "/sang.le/static/js/main.57337861.chunk.js.map",
+    "main.js": "/sang.le/static/js/main.7829167d.chunk.js",
+    "main.js.map": "/sang.le/static/js/main.7829167d.chunk.js.map",
     "runtime-main.js": "/sang.le/static/js/runtime-main.91429934.js",
     "runtime-main.js.map": "/sang.le/static/js/runtime-main.91429934.js.map",
     "static/js/2.2559cdcc.chunk.js": "/sang.le/static/js/2.2559cdcc.chunk.js",
     "static/js/2.2559cdcc.chunk.js.map": "/sang.le/static/js/2.2559cdcc.chunk.js.map",
     "index.html": "/sang.le/index.html",
-    "precache-manifest.b5735a38a1b5670b20155838ec2c81d5.js": "/sang.le/precache-manifest.b5735a38a1b5670b20155838ec2c81d5.js",
+    "precache-manifest.015a2701a3828e3992bd104a6f8d6863.js": "/sang.le/precache-manifest.015a2701a3828e3992bd104a6f8d6863.js",
     "service-worker.js": "/sang.le/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/sang.le/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.2559cdcc.chunk.js.LICENSE.txt": "/sang.le/static/js/2.2559cdcc.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.91429934.js",
     "static/js/2.2559cdcc.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.57337861.chunk.js"
+    "static/js/main.7829167d.chunk.js"
   ]
 }
