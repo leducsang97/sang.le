@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/sang.le/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/sang.le/static/js/main.fe9f7652.chunk.js",
-    "main.js.map": "/sang.le/static/js/main.fe9f7652.chunk.js.map",
+    "main.js": "/sang.le/static/js/main.5114e76a.chunk.js",
+    "main.js.map": "/sang.le/static/js/main.5114e76a.chunk.js.map",
     "runtime-main.js": "/sang.le/static/js/runtime-main.91429934.js",
     "runtime-main.js.map": "/sang.le/static/js/runtime-main.91429934.js.map",
-    "static/js/2.4df0e9d4.chunk.js": "/sang.le/static/js/2.4df0e9d4.chunk.js",
-    "static/js/2.4df0e9d4.chunk.js.map": "/sang.le/static/js/2.4df0e9d4.chunk.js.map",
+    "static/js/2.2559cdcc.chunk.js": "/sang.le/static/js/2.2559cdcc.chunk.js",
+    "static/js/2.2559cdcc.chunk.js.map": "/sang.le/static/js/2.2559cdcc.chunk.js.map",
     "index.html": "/sang.le/index.html",
-    "precache-manifest.4e8f68cb7e1a6236353600dbce201133.js": "/sang.le/precache-manifest.4e8f68cb7e1a6236353600dbce201133.js",
+    "precache-manifest.33b199665a893ef0f93a167b97a216cc.js": "/sang.le/precache-manifest.33b199665a893ef0f93a167b97a216cc.js",
     "service-worker.js": "/sang.le/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/sang.le/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.4df0e9d4.chunk.js.LICENSE.txt": "/sang.le/static/js/2.4df0e9d4.chunk.js.LICENSE.txt",
+    "static/js/2.2559cdcc.chunk.js.LICENSE.txt": "/sang.le/static/js/2.2559cdcc.chunk.js.LICENSE.txt",
     "static/media/profilePic.png": "/sang.le/static/media/profilePic.de038cd3.png"
   },
   "entrypoints": [
     "static/js/runtime-main.91429934.js",
-    "static/js/2.4df0e9d4.chunk.js",
+    "static/js/2.2559cdcc.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.fe9f7652.chunk.js"
+    "static/js/main.5114e76a.chunk.js"
   ]
 }
